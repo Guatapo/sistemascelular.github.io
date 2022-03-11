@@ -1,0 +1,167 @@
+h1{
+    font-size: 30px;
+    text-transform: uppercase;
+	color: #141414;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+h3{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 3px;
+}
+.imagen{
+    margin: 0;
+    padding:0;
+    display: flex;
+    width: 300px;
+    height: 200px;
+}
+
+.contenedor{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 30px;
+}
+
+@media (min-width: 991px) {
+
+}
+
+#a{
+    display: inline-block;
+    letter-spacing: 2px;
+    font-size: 21px;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 0.2s;
+	text-transform: uppercase;
+	color: black;
+	border: 5px solid black;
+	padding: 5px 10px;
+    border-radius: 5px;
+    
+
+}
+#a:hover{
+    background: red;
+    box-shadow: 0 0 10px red, 0 0 40px red, 0 0 80px red;
+}
+#e{
+    display: inline-block;
+    letter-spacing: 2px;
+    font-size: 21px;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 0.2s;
+    text-transform: uppercase;
+	color: black;
+	border: 5px solid black;
+	padding: 5px 10px;
+    border-radius: 5px;
+
+}
+#e:hover{
+    background: red;
+    box-shadow: 0 0 10px red, 0 0 40px red, 0 0 80px red;
+    transition: 1s;
+}
+#i{
+    display: inline-block;
+    letter-spacing: 4px;
+    font-size: 21px;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 0.2s;
+    text-transform: uppercase;
+	color: black;
+	border: 5px solid black;
+	padding: 5px 10px;
+    border-radius: 5px;
+
+}
+#i:hover{
+    background: red;
+    box-shadow: 0 0 10px red, 0 0 40px red, 0 0 80px red;
+}
+#o{
+    display: inline-block;
+    letter-spacing: 4px;
+    font-size: 21px;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 0.2s;
+    text-transform: uppercase;
+	color: black;
+	border: 5px solid black;
+	padding: 5px 10px;
+    border-radius: 5px;
+
+}
+#o:hover{
+    background: black;
+    box-shadow: 0 0 10px red, 0 0 40px red, 0 0 80px red;
+}
+#u{
+    display: inline-block;
+    letter-spacing: 4px;
+    font-size: 21px;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 0.2s;
+    text-transform: uppercase;
+	color: black;
+	border: 5px solid black;
+	padding: 5px 10px;
+    border-radius: 5px;
+
+}
+#u:hover{
+    background: red;
+    box-shadow: 0 0 10px red, 0 0 40px red, 0 0 80px red;
+}
+#w{
+    display: inline-block;
+    letter-spacing: 4px;
+    font-size: 21px;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 0.2s;
+    text-transform: uppercase;
+	color: black;
+	border: 5px solid black;
+	padding: 5px 10px;
+    border-radius: 5px;
+
+}
+#w:hover{
+    background: red;
+    box-shadow: 0 0 10px red, 0 0 40px red, 0 0 80px red;
+}
